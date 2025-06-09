@@ -1,3 +1,6 @@
+===================================================
++ title : FPGA 原型验证流程
+===================================================
 # 1. 原型验证流程概述
 
 ![原型验证流程](./image/fpga_prototyping_flow.png)
@@ -147,8 +150,7 @@ Copilot said: 如果确实需要（且允许）对RTL进行修改，那么我们
 
 ### 2.4.2 非实时信号探测
 
-Virtex FPGA 最常用的 FPGA 探针工具是 Xilinx 的 ChipScope 系列工具（网表级别信号追踪）和 Synopsys 的 Identifytools（RTL 级别信号跟踪）
-
+Virtex FPGA 最常用的 FPGA 探针工具是 Xilinx 的 ChipScope 系列工具（网表级别信号追踪）和 Synopsys 的 Identifytools（RTL 级别信号跟踪）。
 
 # 3. FPGA 评估
 
